@@ -1,0 +1,94 @@
+[
+  {
+    "recipe_image": "https://images.pexels.com/photos/4288047/pexels-photo-4288047.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "recipe_id": 1,
+    "recipe_name": "Stir-Fried Chicken with Basil",
+    "short_description": "A quick and easy stir-fry with savory chicken and fragrant basil",
+    "ingredients": [
+      "550 g chicken breast, sliced",
+      "2 tbsp brown sugar",
+      "1 tbsp cornstarch",
+      "200 g basil leaves",
+      "400 g assorted mushrooms, sliced"
+    ],
+    "preparing_time": 30,
+    "calories": 320
+  },
+  {
+    "recipe_image": "https://images.pexels.com/photos/6287525/pexels-photo-6287525.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "recipe_id": 2,
+    "recipe_name": "Creamy Tomato Pasta",
+    "short_description": "A comforting pasta dish with a rich tomato sauce",
+    "ingredients": [
+      "400 g pasta (e.g., penne, rigatoni)",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "400 g canned diced tomatoes",
+
+      "Parmesan cheese, grated (to taste)"
+    ],
+    "preparing_time": 20,
+    "calories": 450
+  },
+  {
+    "recipe_image": "https://www.inspiredtaste.net/wp-content/uploads/2021/03/Vegetable-Quesadilla-Recipe-1-1200.jpg",
+    "recipe_id": 3,
+    "recipe_name": "Cheesy Veggie Quesadillas",
+    "short_description": "A satisfying and customizable vegetarian option",
+    "ingredients": [
+      "4 large tortillas",
+      "1 cup shredded cheddar cheese",
+      "1/2 cup shredded Monterey Jack cheese",
+      "1 bell pepper, sliced",
+      "1 cup chopped mushrooms"
+    ],
+    "preparing_time": 15,
+    "calories": 350
+  },
+  {
+    "recipe_image": "https://www.mealgarden.com/media/recipe/2016/11/mango-salsa-salmon---5.png",
+    "recipe_id": 4,
+    "recipe_name": "Spicy Salmon with Mango Salsa",
+    "short_description": "A flavorful and refreshing dish with a tropical twist",
+    "ingredients": [
+      "2 salmon fillets",
+      "1 tsp chili powder",
+      "1/2 tsp cumin",
+      "Salt and pepper to taste",
+      "1 ripe mango, diced"
+    ],
+    "preparing_time": 25,
+    "calories": 400
+  },
+  {
+    "recipe_image": "https://bakefromscratch.com/wp-content/uploads/2017/05/Classic508MBS-1-696x557.jpg",
+    "recipe_id": 5,
+    "recipe_name": "Classic Chocolate Chip Cookies",
+    "short_description": "Soft and chewy cookies with melty chocolate chips",
+    "ingredients": [
+      "1 cup (2 sticks) unsalted butter, softened",
+      "1 cup granulated sugar",
+      "1 cup packed light brown sugar",
+      "2 large eggs",
+      "2 tsp pure vanilla extract",
+      "1 tsp baking soda"
+    ],
+    "preparing_time": 20,
+    "calories": 250
+  },
+  {
+    "recipe_image": "https://www.inspiredtaste.net/wp-content/uploads/2018/09/Easy-Chicken-Noodle-Soup-Recipe-1200.jpg",
+    "recipe_id": 6,
+    "recipe_name": "Simple Chicken Noodle Soup",
+    "short_description": "A warm and comforting soup perfect for any time of year",
+    "ingredients": [
+      "8 cups chicken broth",
+      "1 cup carrots, diced",
+      "1 cup celery, diced",
+      "2 cloves garlic, minced",
+      "1 tsp dried thyme"
+    ],
+    "preparing_time": 40,
+    "calories": 180
+  }
+]
